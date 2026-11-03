@@ -1,50 +1,73 @@
 {
-  "generated_at": "2026-11-03T09:10:54Z",
-  "kpi_label": "% of postings mentioning 'python'",
-  "kpi_value": 0.167,
-  "n_postings_analyzed": 12,
-  "n_matching": 2,
-  "top_skills": [
-    {
-      "skill": "AI",
-      "count": 3
-    },
-    {
-      "skill": "360\u00b0 video",
-      "count": 2
-    },
-    {
-      "skill": "SaaS",
-      "count": 2
-    },
-    {
-      "skill": "Python",
-      "count": 2
-    },
-    {
-      "skill": "AWS",
-      "count": 2
-    },
-    {
-      "skill": "Computer vision",
-      "count": 1
-    },
-    {
-      "skill": "Generative AI",
-      "count": 1
-    },
-    {
-      "skill": "Image technology",
-      "count": 1
-    },
-    {
-      "skill": "computer vision",
-      "count": 1
-    },
-    {
-      "skill": "generative AI",
-      "count": 1
-    }
-  ],
-  "avg_skills_per_posting": 6.25
+  "stage_4_kpi": {
+    "generated_at": "2026-11-03T09:25:19Z",
+    "kpi_label": "% of postings mentioning 'python'",
+    "kpi_value": 0.167,
+    "n_postings_analyzed": 12,
+    "n_matching": 2,
+    "top_skills": [
+      {
+        "skill": "AI",
+        "count": 3
+      },
+      {
+        "skill": "360\u00b0 video",
+        "count": 2
+      },
+      {
+        "skill": "SaaS",
+        "count": 2
+      },
+      {
+        "skill": "Python",
+        "count": 2
+      },
+      {
+        "skill": "AWS",
+        "count": 2
+      },
+      {
+        "skill": "Computer vision",
+        "count": 1
+      },
+      {
+        "skill": "Generative AI",
+        "count": 1
+      },
+      {
+        "skill": "Image technology",
+        "count": 1
+      },
+      {
+        "skill": "computer vision",
+        "count": 1
+      },
+      {
+        "skill": "generative AI",
+        "count": 1
+      }
+    ],
+    "avg_skills_per_posting": 6.25
+  },
+  "cloud_provider_kpi": {
+    "generated_at": "2026-11-03T09:25:19Z",
+    "kpi_label": "% of postings mentioning any major cloud provider",
+    "kpi_value": 0.25,
+    "n_postings_analyzed": 12,
+    "n_matching": 3,
+    "providers_seen": [
+      {
+        "provider": "aws",
+        "count": 2
+      },
+      {
+        "provider": "microsoft azure",
+        "count": 1
+      },
+      {
+        "provider": "azure",
+        "count": 1
+      }
+    ]
+  }
 }
